@@ -12,6 +12,7 @@ import time
 from typing import List, Dict, Any, Optional
 from pathlib import Path
 import logging
+import config
 
 from contract_finder import ContractFinder
 from abi_fetcher import ABIFetcher
@@ -117,13 +118,18 @@ class DefiContractCollector:
         # Process each protocol
         all_results = []
         for i, protocol_data in enumerate(protocols, 1):
+            network = protocol_data['network']
+            # Skip unsupported networks
+            if network not in config.NETWORKS:
+                logger.warning(f"Skipping unsupported network: {network} for {protocol_data['protocol']}")
+                continue
             logger.info(f"Progress: {i}/{len(protocols)} - {protocol_data['protocol']}")
             
             protocol_results = await self.process_protocol(protocol_data)
             all_results.extend(protocol_results)
             
             # Save intermediate results every 10 protocols
-            if i % 10 == 0:
+            if i % 500 == 0:
                 save_json(all_results, f'data/intermediate_results_{int(time.time())}.json')
                 logger.info(f"Saved intermediate results for {i} protocols")
         
