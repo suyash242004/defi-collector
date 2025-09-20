@@ -61,6 +61,7 @@ class DefiContractCollector:
                     if abi_data and abi_data.get('verified', False):
                         # Phase 3: Extract events
                         events = self.event_extractor.extract_events(abi_data['abi'])
+                        events_str = ', '.join(events) if events else ''  # Join as string
                         
                         result = {
                             'protocol': protocol,
@@ -69,7 +70,7 @@ class DefiContractCollector:
                             'contract_address': contract_address,
                             'contract_name': contract_name,
                             'verified': 'yes',
-                            'events': events
+                            'events': events_str  # Use joined string
                         }
                     else:
                         result = {
@@ -79,11 +80,11 @@ class DefiContractCollector:
                             'contract_address': contract_address,
                             'contract_name': contract_name,
                             'verified': 'no',
-                            'events': []
+                            'events': ''  # Empty string for unverified
                         }
                     
                     protocol_results.append(result)
-                    logger.info(f"✅ Processed {contract_name} - {len(result['events'])} events found")
+                    logger.info(f"Processed {contract_name} - {len(result['events'])} events found")
                     
                 except Exception as e:
                     logger.error(f"Error processing contract {contract_address}: {str(e)}")
@@ -95,7 +96,7 @@ class DefiContractCollector:
                         'contract_address': contract_address,
                         'contract_name': contract_name,
                         'verified': 'no',
-                        'events': []
+                        'events': ''
                     })
                 
                 # Rate limiting
@@ -119,6 +120,12 @@ class DefiContractCollector:
         all_results = []
         for i, protocol_data in enumerate(protocols, 1):
             network = protocol_data['network']
+            
+            protocol = protocol_data['protocol']
+            if protocol in ['arbiten', 'finext_finance']:
+                logger.warning(f"Skipping obscure protocol: {protocol} on {network}")
+                continue
+            
             # Skip unsupported networks
             if network not in config.NETWORKS:
                 logger.warning(f"Skipping unsupported network: {network} for {protocol_data['protocol']}")

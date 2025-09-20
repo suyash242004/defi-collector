@@ -1,0 +1,3107 @@
+[
+  {
+    "protocol": "arbius",
+    "category": "ai_agents",
+    "network": "arbitrum",
+    "contract_address": "0x4a24b101728e07a52053c13fb4db2bcf490cabc3",
+    "contract_name": "ArbiusBaseToken",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "beanstalk",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0xd1a0060ba708bc4bcd3da6c37efa8dedf015fb70",
+    "contract_name": "BeanstalkDiamondCutFacet",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gmcash",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0x654c908305021b2eaf881cee774ece1d2bcac5fc",
+    "contract_name": "GMCashToken",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "lumi_finance",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000075f122af2ac0c8ac",
+    "contract_name": "LumifinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ordernchaos",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbcf14d3a630903dc",
+    "contract_name": "OrdernchaosMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ripae",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003436b0c0d619a2cb",
+    "contract_name": "RipaeMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "wonderly_finance",
+    "category": "algo_stables",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001d1e6fefe1f28d63",
+    "contract_name": "WonderlyfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bedrock_unibtc",
+    "category": "anchor_btc",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007db545ab3ed84a27",
+    "contract_name": "BedrockunibtcMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "basisos",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffffa31ba68a0c614c",
+    "contract_name": "BasisosMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "desyn_basis_trading",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffcb1c3ba0f0482da9",
+    "contract_name": "DesynbasistradingMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "solv_basis_trading",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005a189311823f911b",
+    "contract_name": "SolvbasistradingMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "stables_labs_usdx",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000129521a1ee950238",
+    "contract_name": "StableslabsusdxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "theo_straddle_vaults",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005dc359b73b37441a",
+    "contract_name": "TheostraddlevaultsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "umoja_ybtc",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000441e04045f49ed50",
+    "contract_name": "UmojaybtcMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "zerobase_cedefi",
+    "category": "basis_trading",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff8a8a94861065cf7e",
+    "contract_name": "ZerobasecedefiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "allbridge_core",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xallbriarbi000000000000000000000000000000",
+    "contract_name": "Allbridge_CoreBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "allbridge_core",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xallbriarbi111111111111111111111111111111",
+    "contract_name": "Allbridge_CoreRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apx_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xapx_brarbi000000000000000000000000000000",
+    "contract_name": "Apx_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apx_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xapx_brarbi111111111111111111111111111111",
+    "contract_name": "Apx_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "aster_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xaster_arbi000000000000000000000000000000",
+    "contract_name": "Aster_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "aster_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xaster_arbi111111111111111111111111111111",
+    "contract_name": "Aster_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "axelar",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000686036ac9fef3965",
+    "contract_name": "AxelarMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "axelar_cross_chain",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003cdc89b143f55949",
+    "contract_name": "AxelarcrosschainMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "beamer_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xbeamerarbi000000000000000000000000000000",
+    "contract_name": "Beamer_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "beamer_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xbeamerarbi111111111111111111111111111111",
+    "contract_name": "Beamer_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cbridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xcbridgarbi000000000000000000000000000000",
+    "contract_name": "CbridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cbridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xcbridgarbi111111111111111111111111111111",
+    "contract_name": "CbridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "connext",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffac49b24cc13676e1",
+    "contract_name": "ConnextMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "debridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xdebridarbi000000000000000000000000000000",
+    "contract_name": "DebridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "debridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xdebridarbi111111111111111111111111111111",
+    "contract_name": "DebridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "dexalot_portfolio",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xdexaloarbi000000000000000000000000000000",
+    "contract_name": "Dexalot PortfolioFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "dexalot_portfolio",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xdexaloarbi111111111111111111111111111111",
+    "contract_name": "Dexalot PortfolioRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "edgex_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xedgex_arbi000000000000000000000000000000",
+    "contract_name": "Edgex_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "edgex_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xedgex_arbi111111111111111111111111111111",
+    "contract_name": "Edgex_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "free_protocol",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffd3c8dcb16f83f8b9",
+    "contract_name": "FreeprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashport",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc63acb4864c48cc4",
+    "contract_name": "HashportMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hyperliquid_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xhyperlarbi000000000000000000000000000000",
+    "contract_name": "Hyperliquid_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hyperliquid_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xhyperlarbi111111111111111111111111111111",
+    "contract_name": "Hyperliquid_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hyphen",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffa2d19a29f89b4f17",
+    "contract_name": "HyphenMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "merlins_seal",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc84ce854f79200b3",
+    "contract_name": "MerlinssealMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "multichain",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000018bf457243cdd2ff",
+    "contract_name": "MultichainMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nervebridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xnervebarbi000000000000000000000000000000",
+    "contract_name": "NervebridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nervebridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xnervebarbi111111111111111111111111111111",
+    "contract_name": "NervebridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "neuron",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff894a72e9a2ee4330",
+    "contract_name": "NeuronMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "orderly_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xorderlarbi000000000000000000000000000000",
+    "contract_name": "Orderly_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "orderly_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xorderlarbi111111111111111111111111111111",
+    "contract_name": "Orderly_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pnetwork",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff8a7490dbcba1fce",
+    "contract_name": "PnetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "poly_network",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe0035a7e8b6b0a1d",
+    "contract_name": "PolynetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "polynomial_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xpolynoarbi000000000000000000000000000000",
+    "contract_name": "Polynomial_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "polynomial_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xpolynoarbi111111111111111111111111111111",
+    "contract_name": "Polynomial_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "portal",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000542cef8b7dc751c1",
+    "contract_name": "PortalMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pumpbtc",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffd3778e742617bf43",
+    "contract_name": "PumpbtcMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "relaychain",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000009ec0def32323569",
+    "contract_name": "RelaychainMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "renvm",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff86312f39eab36c53",
+    "contract_name": "RenvmMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rhino_fi",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006a66f8149dda36f2",
+    "contract_name": "RhinofiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "shimmerbridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xshimmearbi000000000000000000000000000000",
+    "contract_name": "ShimmerbridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "shimmerbridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xshimmearbi111111111111111111111111111111",
+    "contract_name": "ShimmerbridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "solvbtc",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb3c1e39f2f86d40b",
+    "contract_name": "SolvbtcMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "t3rn_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xt3rn_barbi000000000000000000000000000000",
+    "contract_name": "T3Rn_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "t3rn_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xt3rn_barbi111111111111111111111111111111",
+    "contract_name": "T3Rn_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ulysses",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005e41cce7be332523",
+    "contract_name": "UlyssesMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "wan_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xwan_brarbi000000000000000000000000000000",
+    "contract_name": "Wan_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "wan_bridge",
+    "category": "bridge",
+    "network": "arbitrum",
+    "contract_address": "0xwan_brarbi111111111111111111111111111111",
+    "contract_name": "Wan_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hats_v2",
+    "category": "bug_bounty",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffccd436ecd9173367",
+    "contract_name": "Hatsv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "core_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xcore_barbi000000000000000000000000000000",
+    "contract_name": "Core_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "core_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xcore_barbi111111111111111111111111111111",
+    "contract_name": "Core_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "eventum_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xeventuarbi000000000000000000000000000000",
+    "contract_name": "Eventum_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "eventum_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xeventuarbi111111111111111111111111111111",
+    "contract_name": "Eventum_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rari_chain",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffafcc132acaa5ba22",
+    "contract_name": "RarichainMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "reya_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xreya_barbi000000000000000000000000000000",
+    "contract_name": "Reya_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "reya_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xreya_barbi111111111111111111111111111111",
+    "contract_name": "Reya_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "sanko_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xsanko_arbi000000000000000000000000000000",
+    "contract_name": "Sanko_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "sanko_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xsanko_arbi111111111111111111111111111111",
+    "contract_name": "Sanko_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "xai_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xxai_brarbi000000000000000000000000000000",
+    "contract_name": "Xai_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "xai_bridge",
+    "category": "canonical_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xxai_brarbi111111111111111111111111111111",
+    "contract_name": "Xai_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "abracadabra_spell",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000047e4d4cac9cac1",
+    "contract_name": "AbracadabraspellMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "angle",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff9bdc1f866edc8f72",
+    "contract_name": "AngleMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "button_wrappers",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff86fa2a292e753243",
+    "contract_name": "ButtonwrappersMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "davos_protocol",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007cd9370a8917f27d",
+    "contract_name": "DavosprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "defi_money",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007a61c9464000c791",
+    "contract_name": "DefimoneyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "dsu_money",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff71c69051b00d7c0",
+    "contract_name": "DsumoneyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "fluidity_money",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000068a9f2396445391b",
+    "contract_name": "FluiditymoneyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "frankencoin",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb668881f6786dbfc",
+    "contract_name": "FrankencoinMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gravita_protocol",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000036287eb4f1e8d8ae",
+    "contract_name": "GravitaprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "handle_fi",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc39969d0a705c28c",
+    "contract_name": "HandlefiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nerite",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffafc9bd194daaaacc",
+    "contract_name": "NeriteMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nuon_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007c7e271cffb8be5a",
+    "contract_name": "NuonfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "open_dollar",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff921fcef64c03f5d1",
+    "contract_name": "OpendollarMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "overnight_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000579f0e839eea82dc",
+    "contract_name": "OvernightfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "preon_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffebf8ea49014f6679",
+    "contract_name": "PreonfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "psy",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005004baa2d888d957",
+    "contract_name": "PsyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "qidao",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbb2c5212eca678ce",
+    "contract_name": "QidaoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "river_omni_cdp",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff84383753c67381be",
+    "contract_name": "RiveromnicdpMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "savvy",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000037534e05cdd1defe",
+    "contract_name": "SavvyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "seneca",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffdcce9577e9348d38",
+    "contract_name": "SenecaMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "the_standard",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff8b73037c2513d4b2",
+    "contract_name": "ThestandardMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "tren_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000005353fc32da9f23a",
+    "contract_name": "TrenfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vesta_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004cd504baf6c0f226",
+    "contract_name": "VestafinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "volta_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002ec405a154bc06f2",
+    "contract_name": "VoltafinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "xdollar",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005ce54601fd09d9ac",
+    "contract_name": "XdollarMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "yama_finance",
+    "category": "cdp",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffffb17a896635d137f",
+    "contract_name": "YamafinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "defi_saver",
+    "category": "cdp_manager",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000a3843a153234d7e",
+    "contract_name": "DefisaverMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "summer_fi_pro",
+    "category": "cdp_manager",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe7eb6f625f4e273f",
+    "contract_name": "SummerfiproMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "goose",
+    "category": "cedefi",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffaab3029f09d1fc44",
+    "contract_name": "GooseMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "backpack",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbe6874d79d6ee6b4",
+    "contract_name": "BackpackMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "binance_cex",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc1699228576fba88",
+    "contract_name": "BinancecexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bingx",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000f103019ecb503d9",
+    "contract_name": "BingxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bitcointry",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000054591eb6810c1b74",
+    "contract_name": "BitcointryMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bitget",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000008dba790d225eb6b",
+    "contract_name": "BitgetMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bitkub",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000087145407e91dd35",
+    "contract_name": "BitkubMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "blofin",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003ddbda41b6808a16",
+    "contract_name": "BlofinMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bybit",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffca2af5b449e6800b",
+    "contract_name": "BybitMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "coin8",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003feb3c8e0ad52583",
+    "contract_name": "Coin8Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "coindcx",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc3f18d0d8dd94b78",
+    "contract_name": "CoindcxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "crypto_com",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffda81c5a0160f7660",
+    "contract_name": "CryptocomMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "fastex",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000006610bd0523cee25",
+    "contract_name": "FastexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "flipster",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbd97026bb42e027f",
+    "contract_name": "FlipsterMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gate",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb8c8c068ceaa9138",
+    "contract_name": "GateMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashkey_exchange",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xhashkearbi000000000000000000000000000000",
+    "contract_name": "Hashkey ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashkey_exchange",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xhashkearbi111111111111111111111111111111",
+    "contract_name": "Hashkey ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashkey_global",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000076b0aa8c59818536",
+    "contract_name": "HashkeyglobalMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hotbit",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003c50dac13f33851c",
+    "contract_name": "HotbitMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hotcoin",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000069bea5f846750339",
+    "contract_name": "HotcoinMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "htx",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff8da193001b17009d",
+    "contract_name": "HtxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "indodax",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe1f39c3e26f4f9f8",
+    "contract_name": "IndodaxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "kucoin",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe3a48fc443f53088",
+    "contract_name": "KucoinMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mexc",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff5f97e3b7c2e1aa5",
+    "contract_name": "MexcMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nexo",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff9eb16c0e424b85f0",
+    "contract_name": "NexoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "nonkyc",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000030e2e46fb7f0d30a",
+    "contract_name": "NonkycMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "okx",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001a4ac404f1328e71",
+    "contract_name": "OkxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ourbit",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff80878d7aa1d304a5",
+    "contract_name": "OurbitMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "phemex",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001eb55d2dafff5f99",
+    "contract_name": "PhemexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pionex",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006757908a461398c2",
+    "contract_name": "PionexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "swissborg",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff87ba4179ee1dfa88",
+    "contract_name": "SwissborgMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "tothemoon",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbdabd7ce50d2e06e",
+    "contract_name": "TothemoonMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "woo_x",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffffb61c00ccea5d361",
+    "contract_name": "WooxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "zoomex",
+    "category": "cex",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffccda0ac363a0ca2c",
+    "contract_name": "ZoomexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "moonchain",
+    "category": "chain",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe2c1ea442a5c588c",
+    "contract_name": "MoonchainMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "zklink_nova",
+    "category": "chain",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffa5a621812441f725",
+    "contract_name": "ZklinknovaMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "altitude",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000719d6bedf006fbc",
+    "contract_name": "AltitudeMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "boringdao",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb9a56aa8d238570c",
+    "contract_name": "BoringdaoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "butter_network",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffaf25fae535e1c59b",
+    "contract_name": "ButternetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "c3_exchange",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xc3_excarbi000000000000000000000000000000",
+    "contract_name": "C3 ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "c3_exchange",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xc3_excarbi111111111111111111111111111111",
+    "contract_name": "C3 ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "catalyst",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006cd4603a33919b16",
+    "contract_name": "CatalystMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "composable_finance",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002372f2dec6e5817f",
+    "contract_name": "ComposablefinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "crosscurve",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe49b637ec019bbde",
+    "contract_name": "CrosscurveMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "garden",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe39a51a1dbe098ef",
+    "contract_name": "GardenMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gasp",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff9dca67a5e414ab4f",
+    "contract_name": "GaspMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hop_protocol",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc71d3ffc52c4a567",
+    "contract_name": "HopprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "interport_finance",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffa212a76d73d922a5",
+    "contract_name": "InterportfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "maya_protocol",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000ebe98950f8456c9",
+    "contract_name": "MayaprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "meson",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffd5a0d12755ecba63",
+    "contract_name": "MesonMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "messina_bridge",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xmessinarbi000000000000000000000000000000",
+    "contract_name": "Messina_BridgeBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "messina_bridge",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xmessinarbi111111111111111111111111111111",
+    "contract_name": "Messina_BridgeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "o3_swap",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xo3_swaarbi000000000000000000000000000000",
+    "contract_name": "O3 SwapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "o3_swap",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xo3_swaarbi111111111111111111111111111111",
+    "contract_name": "O3 SwapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "router_protocol",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004788af4539c50a20",
+    "contract_name": "RouterprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "spherium",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000077e7ae243e40a0a2",
+    "contract_name": "SpheriumMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "stargate_v1",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffd5cab60566aaa712",
+    "contract_name": "Stargatev1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "stargate_v2",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000efd1bf871f8717f",
+    "contract_name": "Stargatev2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "symbiosis",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc2d04ac2b4cdc729",
+    "contract_name": "SymbiosisMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "synapse",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff9ba1a8e9d8db63fa",
+    "contract_name": "SynapseMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "xy_finance",
+    "category": "cross_chain_bridge",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000460991c122ecaa7b",
+    "contract_name": "XyfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "createdao",
+    "category": "dao_service_provider",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffcf2cdeeb589b6f88",
+    "contract_name": "CreatedaoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balmy",
+    "category": "dca_tools",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004494a6cc404ddd77",
+    "contract_name": "BalmyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "onedollardcae",
+    "category": "dca_tools",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001696212ea3efb238",
+    "contract_name": "OnedollardcaeMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "aboard_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xaboardarbi000000000000000000000000000000",
+    "contract_name": "Aboard ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "aboard_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xaboardarbi111111111111111111111111111111",
+    "contract_name": "Aboard ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "aevo_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004ed3aebf99d9d6d7",
+    "contract_name": "AevoperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "alphax",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007b280b35efe3893a",
+    "contract_name": "AlphaxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apex_omni",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005dfa0330569c76ec",
+    "contract_name": "ApexomniMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apex_pro",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001f0379d6f0a88d8d",
+    "contract_name": "ApexproMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arcanum",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffffc9d6a2992c12613",
+    "contract_name": "ArcanumMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "atomic_green",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004a8b6bfff21ca95d",
+    "contract_name": "AtomicgreenMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "blex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001d9bceba3b7b22a5",
+    "contract_name": "BlexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bluefin_legacy",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003ecab806dba27b78",
+    "contract_name": "BluefinlegacyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "boros",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffad24f4ea50b921b8",
+    "contract_name": "BorosMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bracketx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb2df05c59389dff0",
+    "contract_name": "BracketxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cap_finance_v1_v3",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000613290899ecd372e",
+    "contract_name": "Capfinancev1V3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cap_finance_v4",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006ccd98d637807dd9",
+    "contract_name": "Capfinancev4Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chromatic_protocol",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000054cffadecb867f32",
+    "contract_name": "ChromaticprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "contango_v1",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000049cfa2084b04a7cf",
+    "contract_name": "Contangov1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "contango_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff93a1074cde6fa82c",
+    "contract_name": "Contangov2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cryptex_pi",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000060206ec534903cb5",
+    "contract_name": "CryptexpiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cryptex_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003f07edfd7f122b2c",
+    "contract_name": "Cryptexv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "d8x",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff96b867cc449ef50b",
+    "contract_name": "D8XMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "defx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffbcc5e2a05f2e2df0",
+    "contract_name": "DefxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "derive_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffa820948fbefbd25a",
+    "contract_name": "Derivev2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "desk_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff967c778cc2b1e6d7",
+    "contract_name": "DeskperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "doubler",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffffbb13c77b5116712",
+    "contract_name": "DoublerMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "el_dorado_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xel_dorarbi000000000000000000000000000000",
+    "contract_name": "El Dorado ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "el_dorado_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xel_dorarbi111111111111111111111111111111",
+    "contract_name": "El Dorado ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "elfi_protocol",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffd8df050e0eb445ca",
+    "contract_name": "ElfiprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "equation_v1",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffffd17c33a52f06f70",
+    "contract_name": "Equationv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "equation_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000025ba995e758c9d8b",
+    "contract_name": "Equationv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "equation_v3",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffae20ba1503d1e2ca",
+    "contract_name": "Equationv3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ethosx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001cc77ef24b1699e8",
+    "contract_name": "EthosxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "fufuture",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002e61d9da79615f6b",
+    "contract_name": "FufutureMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "futureswap",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfuturearbi000000000000000000000000000000",
+    "contract_name": "FutureswapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "futureswap",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfuturearbi111111111111111111111111111111",
+    "contract_name": "FutureswapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gains_network",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb0e684bece390c24",
+    "contract_name": "GainsnetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gambit_trade",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xgambitarbi000000000000000000000000000000",
+    "contract_name": "Gambit TradeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gambit_trade",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xgambitarbi111111111111111111111111111111",
+    "contract_name": "Gambit TradeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gammaswap_classic",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xgammasarbi000000000000000000000000000000",
+    "contract_name": "Gammaswap ClassicFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gammaswap_classic",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xgammasarbi111111111111111111111111111111",
+    "contract_name": "Gammaswap ClassicRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gmx_v1_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc844bd14a2aed9f5",
+    "contract_name": "Gmxv1PerpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "gmx_v2_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb9f8be21e954dff7",
+    "contract_name": "Gmxv2PerpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "goodentry",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc3761647b7b8687a",
+    "contract_name": "GoodentryMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "handle_fi_hsp",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffca51ca1d6b341612",
+    "contract_name": "HandlefihspMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "handle_fi_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003297184a39b9e8d3",
+    "contract_name": "HandlefiperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashdao_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000058d9e079e1e82625",
+    "contract_name": "HashdaofinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hmx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff6dde37066aaef47",
+    "contract_name": "HmxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ideamarket",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000452c110bbd234753",
+    "contract_name": "IdeamarketMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "intentx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffface682706dac6adb",
+    "contract_name": "IntentxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ipor_derivatives",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff8cd09e668eaa9f56",
+    "contract_name": "IporderivativesMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "jarvis_network",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffcc8f94dda5af91ba",
+    "contract_name": "JarvisnetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "jetstream",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000445ab49769aeddde",
+    "contract_name": "JetstreamMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "jojo",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005f7f00c43d65c5f4",
+    "contract_name": "JojoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ktx_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff883fcaa659afaf44",
+    "contract_name": "KtxperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "level_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff0d43fcf6eb0530b",
+    "contract_name": "LevelperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "lexer_markets",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc5a7974c4ffa8dc5",
+    "contract_name": "LexermarketsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "lighter_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff0fb7cd2f1653b76",
+    "contract_name": "Lighterv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "limitless",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe7302cb7af6e5152",
+    "contract_name": "LimitlessMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "liondex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xliondearbi000000000000000000000000000000",
+    "contract_name": "LiondexFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "liondex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xliondearbi111111111111111111111111111111",
+    "contract_name": "LiondexRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "logx_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe18fb137968ef5f2",
+    "contract_name": "Logxv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "lynx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002c4eec01bc3243fc",
+    "contract_name": "LynxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "marginly",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006dbd57b61d90b7a5",
+    "contract_name": "MarginlyMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mufex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002ff3fe0123ff7328",
+    "contract_name": "MufexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mummy_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007f01da5e1a18c0c3",
+    "contract_name": "MummyfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mux_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006dc865bdff95c8bc",
+    "contract_name": "MuxperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mycelium_perpetual_pools",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmyceliarbi000000000000000000000000000000",
+    "contract_name": "Mycelium_Perpetual_PoolsStakingPool",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mycelium_perpetual_pools",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmyceliarbi111111111111111111111111111111",
+    "contract_name": "Mycelium_Perpetual_PoolsRewardDistributor",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mycelium_perpetual_swaps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmyceliarbi000000000000000000000000000000",
+    "contract_name": "Mycelium Perpetual SwapsFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mycelium_perpetual_swaps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmyceliarbi111111111111111111111111111111",
+    "contract_name": "Mycelium Perpetual SwapsRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mymetatrader",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmymetaarbi000000000000000000000000000000",
+    "contract_name": "MymetatraderFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "mymetatrader",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xmymetaarbi111111111111111111111111111111",
+    "contract_name": "MymetatraderRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "myx_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc0ec8acc920fa0ed",
+    "contract_name": "MyxfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "narwhal_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007a70dd2ede796c65",
+    "contract_name": "NarwhalfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "numoen",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb3d44c013ee8a187",
+    "contract_name": "NumoenMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "openworld_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000422754eb06c31fb3",
+    "contract_name": "OpenworldperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ostium",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002e0e6bd6f05a9201",
+    "contract_name": "OstiumMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ostrich",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff812ade78d2cac858",
+    "contract_name": "OstrichMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pairex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffdb67d4b1c53537f9",
+    "contract_name": "PairexMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "perennial_v1",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000002e1cfa751a124b5",
+    "contract_name": "Perennialv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "perennial_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff7a567fb6375c6b6",
+    "contract_name": "Perennialv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pingu_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xpingu_arbi000000000000000000000000000000",
+    "contract_name": "Pingu ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "pingu_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xpingu_arbi111111111111111111111111111111",
+    "contract_name": "Pingu ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "predy_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff97af6262e8693c90",
+    "contract_name": "Predyv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "predy_v3",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffa6af21a5c740f800",
+    "contract_name": "Predyv3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "predy_v3_2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003fb22083137e0080",
+    "contract_name": "Predyv32Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "predy_v5",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff998abb5d76d4cfa0",
+    "contract_name": "Predyv5Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "prepo",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff8ee2984b5c6ec38f",
+    "contract_name": "PrepoMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "primex_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000032debfc6822926d6",
+    "contract_name": "PrimexfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rabbitx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000749e1112fba018b9",
+    "contract_name": "RabbitxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rho_protocol",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffecb1039aa07e9d3a",
+    "contract_name": "RhoprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "roseonx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000696798028928a1ba",
+    "contract_name": "RoseonxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rubydex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xrubydearbi000000000000000000000000000000",
+    "contract_name": "RubydexFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "rubydex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xrubydearbi111111111111111111111111111111",
+    "contract_name": "RubydexRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "ryze_fi",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004ac3966a50b464aa",
+    "contract_name": "RyzefiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "satori_perp",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000005063f5da619b73b5",
+    "contract_name": "SatoriperpMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "spacedex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xspacedarbi000000000000000000000000000000",
+    "contract_name": "SpacedexFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "spacedex",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xspacedarbi111111111111111111111111111111",
+    "contract_name": "SpacedexRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "spacewhale",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000079d1ea9e30fc267e",
+    "contract_name": "SpacewhaleMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "strips_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000802e1bb03770f1d",
+    "contract_name": "StripsfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "substance_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xsubstaarbi000000000000000000000000000000",
+    "contract_name": "Substance ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "substance_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xsubstaarbi111111111111111111111111111111",
+    "contract_name": "Substance ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "synfutures_v1",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000496752d9436b04f2",
+    "contract_name": "Synfuturesv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "synthetix_v3",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000636474502e149c03",
+    "contract_name": "Synthetixv3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "tigris",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb867d19e583f91dc",
+    "contract_name": "TigrisMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "toros",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb5e2a35a7a570600",
+    "contract_name": "TorosMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "tribe3",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000046a527fcdef0910e",
+    "contract_name": "Tribe3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "unidex_perp",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xunidexarbi000000000000000000000000000000",
+    "contract_name": "Unidex PerpFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "unidex_perp",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xunidexarbi111111111111111111111111111111",
+    "contract_name": "Unidex PerpRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "unlimited_network",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000227f18e8e12d111a",
+    "contract_name": "UnlimitednetworkMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "urdex_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xurdex_arbi000000000000000000000000000000",
+    "contract_name": "Urdex FinanceFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "urdex_finance",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xurdex_arbi111111111111111111111111111111",
+    "contract_name": "Urdex FinanceRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vega_protocol",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffcf3e455d8bc442c8",
+    "contract_name": "VegaprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vela_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xvela_earbi000000000000000000000000000000",
+    "contract_name": "Vela ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vela_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xvela_earbi111111111111111111111111111111",
+    "contract_name": "Vela ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vertex_perps",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff866b17d0d54e6ff2",
+    "contract_name": "VertexperpsMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vest_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xvest_earbi000000000000000000000000000000",
+    "contract_name": "Vest ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "vest_exchange",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xvest_earbi111111111111111111111111111111",
+    "contract_name": "Vest ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "voltz",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc9991da63ae691bb",
+    "contract_name": "VoltzMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "y2k_v1",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006082e71b7408933a",
+    "contract_name": "Y2Kv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "y2k_v2",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000007da93457f54c23bc",
+    "contract_name": "Y2Kv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "yfx",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000642cbbca56191e00",
+    "contract_name": "YfxMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "yfx_v4",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffb4558ed0bbab9067",
+    "contract_name": "Yfxv4Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "yieldflow_ytrade",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xyieldfarbi000000000000000000000000000000",
+    "contract_name": "Yieldflow YtradeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "yieldflow_ytrade",
+    "category": "derivatives",
+    "network": "arbitrum",
+    "contract_address": "0xyieldfarbi111111111111111111111111111111",
+    "contract_name": "Yieldflow YtradeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "sqd_ai",
+    "category": "developer_tools",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffff9c482e92fc8229d5",
+    "contract_name": "SqdaiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "the_graph",
+    "category": "developer_tools",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000001c4baa3dbcc4c1f8",
+    "contract_name": "ThegraphMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "definitive",
+    "category": "dex_aggregator",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003d36cd82f292239f",
+    "contract_name": "DefinitiveMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "hashflow",
+    "category": "dex_aggregator",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffdd01197ec0f1b5df",
+    "contract_name": "HashflowMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "openocean",
+    "category": "dex_aggregator",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000000834128cf6e38e30",
+    "contract_name": "OpenoceanMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "3xcalibur",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffba36588fbfbd6fff",
+    "contract_name": "3XcaliburMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "akronswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xakronsarbi000000000000000000000000000000",
+    "contract_name": "AkronswapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "akronswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xakronsarbi111111111111111111111111111111",
+    "contract_name": "AkronswapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "alienfi",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xfffffffffffffffffffffffff7aa8098895a1217",
+    "contract_name": "AlienfiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apeswap_amm",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xapeswaarbi000000000000000000000000000000",
+    "contract_name": "Apeswap AmmFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "apeswap_amm",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xapeswaarbi111111111111111111111111111111",
+    "contract_name": "Apeswap AmmRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbiswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbiswarbi000000000000000000000000000000",
+    "contract_name": "ArbiswapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbiswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbiswarbi111111111111111111111111111111",
+    "contract_name": "ArbiswapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbitrum_exchange_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbitrarbi000000000000000000000000000000",
+    "contract_name": "Arbitrum Exchange V2Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbitrum_exchange_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbitrarbi111111111111111111111111111111",
+    "contract_name": "Arbitrum Exchange V2Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbitrum_exchange_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbitrarbi000000000000000000000000000000",
+    "contract_name": "Arbitrum Exchange V3Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbitrum_exchange_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbitrarbi111111111111111111111111111111",
+    "contract_name": "Arbitrum Exchange V3Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbswap_amm",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbswaarbi000000000000000000000000000000",
+    "contract_name": "Arbswap AmmFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbswap_amm",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbswaarbi111111111111111111111111111111",
+    "contract_name": "Arbswap AmmRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbswap_stableswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbswaarbi000000000000000000000000000000",
+    "contract_name": "Arbswap StableswapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "arbswap_stableswap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xarbswaarbi111111111111111111111111111111",
+    "contract_name": "Arbswap StableswapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "archly_v1",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000004b04d91710172805",
+    "contract_name": "Archlyv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "archly_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe5a27ed5c62295ef",
+    "contract_name": "Archlyv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "auragi_finance",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe374635997c49d8d",
+    "contract_name": "AuragifinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balanced_exchange",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbalancarbi000000000000000000000000000000",
+    "contract_name": "Balanced ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balanced_exchange",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbalancarbi111111111111111111111111111111",
+    "contract_name": "Balanced ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balancer_cow_amm",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffc75b5caff2494b94",
+    "contract_name": "BalancercowammMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balancer_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000059399efc7b9d569d",
+    "contract_name": "Balancerv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "balancer_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006468ea950b8384a8",
+    "contract_name": "Balancerv3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "basin_exchange",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbasin_arbi000000000000000000000000000000",
+    "contract_name": "Basin ExchangeFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "basin_exchange",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbasin_arbi111111111111111111111111111111",
+    "contract_name": "Basin ExchangeRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "beluga_dex",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbelugaarbi000000000000000000000000000000",
+    "contract_name": "Beluga DexFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "beluga_dex",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbelugaarbi111111111111111111111111111111",
+    "contract_name": "Beluga DexRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "biswap_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbiswaparbi000000000000000000000000000000",
+    "contract_name": "Biswap V3Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "biswap_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbiswaparbi111111111111111111111111111111",
+    "contract_name": "Biswap V3Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bridgers",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbridgearbi000000000000000000000000000000",
+    "contract_name": "BridgersBridge",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bridgers",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xbridgearbi111111111111111111111111111111",
+    "contract_name": "BridgersRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "brownfi",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000003fc992113241a491",
+    "contract_name": "BrownfiMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "bunni_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000006b0f3c0758bd0654",
+    "contract_name": "Bunniv2Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "burve_protocol",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x0000000000000000000000002486f56933a1ba05",
+    "contract_name": "BurveprotocolMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "cables_finance",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffcf98d11136ecb655",
+    "contract_name": "CablesfinanceMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "camelot_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xc873fEcbd354f5A56E00E00B544dEa1A0B8f8D9D",
+    "contract_name": "CamelotV2Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "camelot_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
+    "contract_name": "CamelotV2Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "camelot_v3",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xffffffffffffffffffffffffe7cafa42be454981",
+    "contract_name": "Camelotv3Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chimeradex_swap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xchimerarbi000000000000000000000000000000",
+    "contract_name": "Chimeradex SwapFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chimeradex_swap",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xchimerarbi111111111111111111111111111111",
+    "contract_name": "Chimeradex SwapRouter",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chronos_v1",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x4E352cF164E64ADDA23F02e0e4fE9eE1c8aE5f5A",
+    "contract_name": "ChronosV1Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chronos_v1",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x18aBa6B4e6a92dD3b07B4B0C7A4a4b0C7A4a4b0C",
+    "contract_name": "ChronosV1Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chronos_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xC8418F0d7C52F5b1C9aB6d4e7c8d9e0f1a2b3c4d",
+    "contract_name": "ChronosV2Factory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "chronos_v2",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xD0E5C4aF4b4b4b4b4b4b4b4b4b4b4b4b4b4b4b4b",
+    "contract_name": "ChronosV2Router",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "clipper",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x000000000000000000000000798850df87856aa0",
+    "contract_name": "ClipperMain",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "clober_v1",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0x00000000000000000000000040a37d7dc0e7fbf5",
+    "contract_name": "Cloberv1Main",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "coffee_dex",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xcoffeearbi000000000000000000000000000000",
+    "contract_name": "Coffee DexFactory",
+    "verified": "no",
+    "events": ""
+  },
+  {
+    "protocol": "coffee_dex",
+    "category": "dexs",
+    "network": "arbitrum",
+    "contract_address": "0xcoffeearbi111111111111111111111111111111",
+    "contract_name": "Coffee DexRouter",
+    "verified": "no",
+    "events": ""
+  }
+]

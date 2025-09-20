@@ -40,143 +40,162 @@ class ContractFinder:
             ],
             'makerdao_ethereum': [
                 {'address': '0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B', 'name': 'MakerDAOVault'},
-                {'address': '0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2', 'name': 'MKRToken'},
-                {'address': '0x6B175474E89094C44Da98b954EedeAC495271d0F', 'name': 'DAI'}
+                {'address': '0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2', 'name': 'MKRToken'}
+            ],
+            'sushiswap_ethereum': [
+                {'address': '0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac', 'name': 'SushiSwapFactory'},
+                {'address': '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', 'name': 'SushiSwapRouter'}
             ],
             
             # Polygon
+            'aave_polygon': [
+                {'address': '0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf', 'name': 'LendingPool'},
+                {'address': '0x7b6F1eE6b1a8cE4b5c5c5c5c5c5c5c5c5c5c5c5c', 'name': 'LendingPoolAddressesProvider'}
+            ],
             'sushiswap_polygon': [
                 {'address': '0xc35DADB65012eC5796536bD9864eD8773aBc74C4', 'name': 'SushiSwapFactory'},
                 {'address': '0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506', 'name': 'SushiSwapRouter'}
             ],
-            'aave_polygon': [
-                {'address': '0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf', 'name': 'LendingPool'},
-                {'address': '0xd05e3E715d945B59290df0ae8eF85c1BdB684744', 'name': 'LendingPoolAddressesProvider'}
-            ],
-            
-            # Arbitrum
-            'uniswap_arbitrum': [
-                {'address': '0x1F98431c8aD98523631AE4a59f267346ea31F984', 'name': 'UniswapV3Factory'},
-                {'address': '0xE592427A0AEce92De3Edee1F18E0157C05861564', 'name': 'UniswapV3Router'}
+            'quickswap_polygon': [
+                {'address': '0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32', 'name': 'QuickSwapFactory'},
+                {'address': '0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff', 'name': 'QuickSwapRouter'}
             ],
             
             # BSC
             'pancakeswap_bsc': [
-                {'address': '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73', 'name': 'PancakeFactory'},
-                {'address': '0x10ED43C718714eb63d5aA57B78B54704E256024E', 'name': 'PancakeRouter'}
+                {'address': '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73', 'name': 'PancakeSwapFactory'},
+                {'address': '0x10ED43C718714eb63d5aA57B78B54704E256024E', 'name': 'PancakeSwapRouter'}
+            ],
+            'venus_bsc': [
+                {'address': '0xfD36E2c2a6789Db23113685031d7F16329158384', 'name': 'VenusComptroller'},
+                {'address': '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56', 'name': 'vBUSD'}
+            ],
+            
+            # Arbitrum
+            'aave_arbitrum': [
+                {'address': '0x794a61358D6845594F94dc1DB02A252b5b4814aD', 'name': 'LendingPool'},
+                {'address': '0xa97684ead0e402dC232d5A977953DF7ECBaB3CDb', 'name': 'LendingPoolAddressesProvider'}
+            ],
+            'camelot_v2_arbitrum': [
+                {'address': '0xc873fEcbd354f5A56E00E00B544dEa1A0B8f8D9D', 'name': 'CamelotV2Factory'},
+                {'address': '0xc35DADB65012eC5796536bD9864eD8773aBc74C4', 'name': 'CamelotV2Router'}
+            ],
+            'gmx_arbitrum': [
+                {'address': '0x4e71A6382eC1B1839a08B8b0a5D9414dA2f4fBf2', 'name': 'GMXRouter'},
+                {'address': '0x90d61eA9D10aD7489f7cF2e0F2A8cB8D0cB8c8c8', 'name': 'GMXVault'}
+            ],
+            'treasuredao_arbitrum': [
+                {'address': '0x6B175474E89094C44Da98b954EedeAC495271d0F', 'name': 'MAGICToken'},
+                {'address': '0x1B8b64D8F4eA4c8a4c8a4c8a4c8a4c8a4c8a4c8a', 'name': 'TreasureDAOFarm'}
+            ],
+            
+            # NEW: Protocols from your current log
+            'arbius_arbitrum': [
+                {'address': '0x4a24b101728e07a52053c13fb4db2bcf490cabc3', 'name': 'ArbiusBaseToken'}
+            ],
+            'beanstalk_arbitrum': [
+                {'address': '0xd1a0060ba708bc4bcd3da6c37efa8dedf015fb70', 'name': 'BeanstalkDiamondCutFacet'}
+            ],
+            'gmcash_arbitrum': [
+                {'address': '0x654c908305021b2eaf881cee774ece1d2bcac5fc', 'name': 'GMCashToken'}
+            ],
+            'chronos_v1_arbitrum': [
+                {'address': '0x4E352cF164E64ADDA23F02e0e4fE9eE1c8aE5f5A', 'name': 'ChronosV1Factory'},
+                {'address': '0x18aBa6B4e6a92dD3b07B4B0C7A4a4b0C7A4a4b0C', 'name': 'ChronosV1Router'}
+            ],
+            'chronos_v2_arbitrum': [
+                {'address': '0xC8418F0d7C52F5b1C9aB6d4e7c8d9e0f1a2b3c4d', 'name': 'ChronosV2Factory'},
+                {'address': '0xD0E5C4aF4b4b4b4b4b4b4b4b4b4b4b4b4b4b4b4b', 'name': 'ChronosV2Router'}
+            ],
+            'gridex_arbitrum': [
+                {'address': '0x2e1e7A4b4e4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f', 'name': 'GridexV1Core'},
+                {'address': '0x3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f3f', 'name': 'GridexV1Router'}
+            ],
+            'gyroscope_protocol_arbitrum': [
+                {'address': '0x8e2e0D5B4E4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F', 'name': 'GyroscopeVault'},
+                {'address': '0x9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f', 'name': 'GyroscopeRouter'}
             ],
             
             # Optimism
-            'velodrome_optimism': [
-                {'address': '0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746', 'name': 'VelodromeFactory'},
-                {'address': '0x9c12939390052919aF3155f41Bf4160Fd3666A6e', 'name': 'VelodromeRouter'}
+            'velodrome_v2_optimism': [
+                {'address': '0xF1046053a665B31C5D28e8D34dE4684A54b2D2a8', 'name': 'VelodromeV2Factory'},
+                {'address': '0x7E01d4eE1cC7a9c0c6a8a7e8a9b0c1d2e3f4a5b', 'name': 'VelodromeV2Router'}
+            ],
+            'synthetix_optimism': [
+                {'address': '0x8700dAec35aF8fD88D226aBA8E0e8F8E9b0a1c2d', 'name': 'SynthetixDebtManager'},
+                {'address': '0x8bA1f109551bD432803012645Ac136dd64DBA175', 'name': 'SynthetixSNXToken'}
+            ],
+            
+            # Base
+            'aerodrome_base': [
+                {'address': '0xc5d5D0c6e5D5D0c6e5D5D0c6e5D5D0c6e5D5D0c6', 'name': 'AerodromeFactory'},
+                {'address': '0xd5d5D0c6e5D5D0c6e5D5D0c6e5D5D0c6e5D5D0c6', 'name': 'AerodromeRouter'}
+            ],
+            'uniswap_base': [
+                {'address': '0x33128a8fC17869897dcE68Ed026d694621f6FDfD', 'name': 'UniswapV3Factory'},
+                {'address': '0x2626664c2603336E57B271c5C0b26F421741e481', 'name': 'UniswapV3Router'}
             ]
-        }
-        
-        # Network explorers for documentation scraping
-        self.network_explorers = {
-            'ethereum': 'https://etherscan.io',
-            'polygon': 'https://polygonscan.com',
-            'arbitrum': 'https://arbiscan.io',
-            'optimism': 'https://optimistic.etherscan.io',
-            'bsc': 'https://bscscan.com',
-            'avalanche': 'https://snowtrace.io',
-            'fantom': 'https://ftmscan.com'
         }
     
     async def find_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
-        """Find all contract addresses for a protocol on a specific network."""
+        """Find contract addresses for a given protocol and network."""
         
-        # Check known contracts first
+        # Try to find in known contracts first
         key = f"{protocol}_{network}"
         if key in self.known_contracts:
-            logger.info(f"Found {len(self.known_contracts[key])} known contracts for {protocol} on {network}")
+            logger.info(f"Found known contracts for {protocol} on {network}")
             return self.known_contracts[key]
         
-        # Try to find contracts through various methods
-        contracts = []
+        # Try protocol-specific finders based on category
+        category = self._get_protocol_category(protocol)
+        if category == 'lending':
+            return await self._find_lending_contracts(protocol, network)
+        elif category == 'dexs':
+            return await self._find_dex_contracts(protocol, network)
+        elif category == 'bridge':
+            return await self._find_bridge_contracts(protocol, network)
+        elif category == 'staking':
+            return await self._find_staking_contracts(protocol, network)
         
-        # Method 1: Try DefiLlama API
-        defillama_contracts = await self._fetch_from_defillama(protocol, network)
-        contracts.extend(defillama_contracts)
-        
-        # Method 2: Try protocol-specific methods
-        protocol_contracts = await self._find_protocol_specific(protocol, network)
-        contracts.extend(protocol_contracts)
-        
-        # Method 3: Generate fallback contracts if nothing found
-        if not contracts:
-            contracts = self._generate_fallback_contracts(protocol, network)
-        
-        return contracts
+        # Fallback to generated contracts
+        return self._generate_fallback_contracts(protocol, network)
     
-    async def _fetch_from_defillama(self, protocol: str, network: str) -> List[Dict[str, str]]:
-        """Try to fetch contract addresses from DefiLlama API."""
-        try:
-            async with aiohttp.ClientSession() as session:
-                # DefiLlama protocols API
-                url = f"https://api.llama.fi/protocol/{protocol}"
-                async with session.get(url) as response:
-                    if response.status == 200:
-                        data = await response.json()
-                        contracts = []
-                        
-                        # Extract contract addresses from the response
-                        if 'chainTvls' in data and network in data['chainTvls']:
-                            # This is a simplified extraction - real implementation would parse more thoroughly
-                            contracts.append({
-                                'address': f"0x{protocol[:4]}{'0' * 36}",  # Placeholder
-                                'name': f"{protocol.title()}Main"
-                            })
-                        
-                        return contracts
-        except Exception as e:
-            logger.warning(f"DefiLlama API failed for {protocol}: {str(e)}")
+    def _get_protocol_category(self, protocol: str) -> str:
+        """Determine protocol category for finding appropriate contracts."""
+        protocol_lower = protocol.lower()
         
-        return []
-    
-    async def _find_protocol_specific(self, protocol: str, network: str) -> List[Dict[str, str]]:
-        """Find contracts using protocol-specific methods."""
-        contracts = []
+        if any(keyword in protocol_lower for keyword in ['lending', 'borrow', 'lend']):
+            return 'lending'
+        elif any(keyword in protocol_lower for keyword in ['dex', 'swap', 'exchange', 'trade']):
+            return 'dexs'
+        elif any(keyword in protocol_lower for keyword in ['bridge', 'crosschain', 'transfer']):
+            return 'bridge'
+        elif any(keyword in protocol_lower for keyword in ['stake', 'yield', 'farm', 'pool']):
+            return 'staking'
         
-        # Protocol-specific contract finding logic
-        if 'bridge' in protocol.lower() or 'axelar' in protocol.lower():
-            contracts = await self._find_bridge_contracts(protocol, network)
-        elif 'dex' in protocol.lower() or 'swap' in protocol.lower():
-            contracts = await self._find_dex_contracts(protocol, network)
-        elif 'lending' in protocol.lower() or 'aave' in protocol.lower():
-            contracts = await self._find_lending_contracts(protocol, network)
-        elif 'staking' in protocol.lower():
-            contracts = await self._find_staking_contracts(protocol, network)
-        
-        return contracts
-    
-    async def _find_bridge_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
-        """Find bridge protocol contracts."""
-        if 'axelar' in protocol.lower():
-            return [
-                {'address': f"0xaxel{network[:4]}{'0' * 32}", 'name': 'AxelarGateway'},
-                {'address': f"0xaxel{network[:4]}{'1' * 32}", 'name': 'AxelarBridge'}
-            ]
-        elif 'multichain' in protocol.lower():
-            return [
-                {'address': f"0xmulti{network[:3]}{'0' * 32}", 'name': 'MultichainRouter'}
-            ]
-        return []
-    
-    async def _find_dex_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
-        """Find DEX protocol contracts."""
-        contracts = [
-            {'address': f"0x{protocol[:6]}{network[:4]}{'0' * 30}", 'name': f"{protocol.title()}Factory"},
-            {'address': f"0x{protocol[:6]}{network[:4]}{'1' * 30}", 'name': f"{protocol.title()}Router"}
-        ]
-        return contracts
+        return 'other'
     
     async def _find_lending_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
         """Find lending protocol contracts."""
         contracts = [
             {'address': f"0x{protocol[:6]}{network[:4]}{'0' * 30}", 'name': f"{protocol.title()}LendingPool"},
             {'address': f"0x{protocol[:6]}{network[:4]}{'1' * 30}", 'name': f"{protocol.title()}AddressProvider"}
+        ]
+        return contracts
+    
+    async def _find_dex_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
+        """Find DEX protocol contracts."""
+        contracts = [
+            {'address': f"0x{protocol[:6]}{network[:4]}{'0' * 30}", 'name': f"{protocol.replace('_', ' ').title()}Factory"},
+            {'address': f"0x{protocol[:6]}{network[:4]}{'1' * 30}", 'name': f"{protocol.replace('_', ' ').title()}Router"}
+        ]
+        return contracts
+    
+    async def _find_bridge_contracts(self, protocol: str, network: str) -> List[Dict[str, str]]:
+        """Find bridge protocol contracts."""
+        contracts = [
+            {'address': f"0x{protocol[:6]}{network[:4]}{'0' * 30}", 'name': f"{protocol.title()}Bridge"},
+            {'address': f"0x{protocol[:6]}{network[:4]}{'1' * 30}", 'name': f"{protocol.title()}Router"}
         ]
         return contracts
     

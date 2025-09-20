@@ -16,7 +16,7 @@ def setup_logging():
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler('data/collector.log'),
+            logging.FileHandler('data/collector.log', encoding='utf-8'),
             logging.StreamHandler()
         ]
     )

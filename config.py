@@ -142,6 +142,7 @@ LOGGING_CONFIG = {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
             'filename': str(LOG_FILE),
+            'encoding': 'utf-8',
             'formatter': 'detailed'
         }
     },
